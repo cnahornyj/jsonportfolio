@@ -1,0 +1,35 @@
+[
+    {
+      "name": "South Park Memory Card",
+      "description": "Créez un jeu de memory sur le thème de la série South Park",
+      "image": "../assets/img/southpark_preview.png",
+      "demoLink": "https://cnahornyj.github.io/memory-game/",
+      "codeLink": "https://github.com/cnahornyj/memory-game",
+      "languages": ["React", "Redux"]
+    },
+    {
+      "name": "Kasa",
+      "description": "Développer une plateforme de location d’appartements entre particuliers",
+      "image": "../assets/img/kasa_preview.png",
+      "demoLink": "https://cnahornyj.github.io/kasa/",
+      "codeLink": "https://github.com/cnahornyj/kasa",
+      "languages": ["React"]
+    },
+    {
+      "name": "La Chouette Agence",
+      "description": "Optimiser le référencement naturel du site d'une grande agence de web design",
+      "image": "../assets/img/lachouetteagence_preview.png",
+      "demoLink": "https://cnahornyj.github.io/la-chouette-agence/",
+      "codeLink": "https://github.com/cnahornyj/la-chouette-agence",
+      "languages": ["SEO"]
+    },
+    {
+      "name": "Fish Eyes",
+      "description": "Créez un site accessible pour une plateforme de photographes",
+      "image": "../assets/img/fisheye_preview.png",
+      "demoLink": "https://cnahornyj.github.io/fisheye/",
+      "codeLink": "https://github.com/cnahornyj/fisheye",
+      "languages": ["Accessibilité"]
+    }
+  ]
+  
